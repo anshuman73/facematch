@@ -1,18 +1,12 @@
 # FaceMatch
 
-A Facial Recognition based Attendance System made for the 1st Semester CSE Project.
+A Facial Recognition based Attendance System made for academic institutions.
 
-### A project by Team OmniVidence
+The software can clean your face data, and store the different faces in the database.
 
-Members - 
+On uploading an image of the class, it automatically picks up the faces of the students prensent, and compares them with the faces in the database, and marks attendance for those found.
 
-Abhimanyu Banerjee - E18CSE005
-
-Aniket Chowdhury - E18CSE015
-
-Anshuman Agarwal - E18CSE022
-
-Anurup Jalota - E18CSE025
+Accuracy acheieved in tests - 94%
 
 
 ## Instructions
